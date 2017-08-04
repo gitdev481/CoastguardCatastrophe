@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 11ba97c5946861b46a283cc5d5a6ee96
+timeCreated: 1485006446
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bebas
+  fontNames:
+  - Bebas
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
